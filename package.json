@@ -1,0 +1,12 @@
+{
+  "name": "liam-email-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server_2.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "nylas": "latest"
+  }
+}
